@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/qr-code-component",
-      "destination": "/qr-code-component"
+      "source": "/qr-code-component-main",
+      "destination": "/qr-code-component-main"
     }
   ]
 }
